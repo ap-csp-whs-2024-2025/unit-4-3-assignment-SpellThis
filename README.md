@@ -55,7 +55,6 @@ int main()
               << "4. Divide\n"
               << "5. Square root\n"
               << "99. Quit\n> ";
-
     std::cin >> user_input;
     
     if (user_input == 0)

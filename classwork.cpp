@@ -8,4 +8,7 @@ int main()
 {
 
   return 0;
+
+   std::srand(std::time(0));  
+
 }
